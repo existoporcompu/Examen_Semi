@@ -1,0 +1,182 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+nav{
+    height: 80px;
+    width: 100%;
+    
+}
+.enlace{
+    position: absolute;
+    padding: 20px 40px;
+    font-size: 25px;
+    color: white;
+    margin-left: 200px;
+    font-family: Bodoni MT;
+}
+
+
+
+
+.fas{
+    font-size: 30px;
+    color: #fff;
+    float: right;
+    line-height: 80pxs;
+    margin-right: 40px;
+    cursor: pointer;
+    margin-top: 23px;
+    display: none;
+}
+
+.space{
+    width: 400px;
+    height: 5700px;
+    margin-left: -8%;
+    background-size: 400px;
+    
+}
+
+.logo{
+    height: 200px;
+    width: 250px;
+}
+
+.coleg{
+   margin-left: 300px;
+   margin-top: -5700px;
+}
+
+.caratula{
+    margin-left: 300px;
+    text-decoration: none;
+    width: 80%;
+    height: 200px;
+    font-size: 26px;
+    
+}
+.align{
+    display: inline-block;
+}
+
+.foto{
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+}
+
+.datos{
+    margin-top: 25px;
+}
+p{
+    color: black;
+    
+}
+
+.d{
+    color: blue;;
+}
+hr{
+    background-color: blue;
+}
+
+.biografia{
+    margin-top: 100px;
+    height: 500px;
+    width: 82%;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.bio{
+    font-size: 20px;
+    text-align: center;
+}
+.tit{
+color: blue;
+font-family: CLucida Sans;
+}
+ol li{
+    font-family: Lucida Sans;
+}
+.vision{
+     margin-top: 10px;
+    margin-left:60px;
+    font-size: 20px;
+    font-family: Lucida Sans;
+    
+}
+
+.mision{
+    margin-top: 90px;
+    
+}
+
+.personalidad{
+    margin-top: 100px;
+    margin-left:60px;
+    font-size: 20px;
+    font-family: Lucida Sans;
+}
+.est{
+    background-color:bisque;
+    color: #804000;
+    width: 75%;
+    height: 1200px;
+    position: absolute;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 100px;
+    
+}
+
+.estrategias{
+    height: 450px;
+    width: 80%;
+    box-shadow: black 5px 5px;
+    
+    
+    
+   
+}
+
+.aliados{
+    height: 450px;
+    width: 80%;
+    box-shadow: black 5px 5px;
+    margin-top: 100px;
+
+}
+.conclusion{
+    margin-top:100px;
+}
+
+.foto{
+    width:300px;
+    height:300px;
+    border-radius:150px;
+    border:10px solid rgb(0, 102, 255);
+
+}
+
+.gim{
+    width:300px;
+    height:300px;
+    border-radius:150px;
+    
+}
+.familia{
+    width:300px;
+    height:300px;
+    border-radius:150px;
+}
+
+
+
+
+
